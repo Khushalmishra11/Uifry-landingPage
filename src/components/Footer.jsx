@@ -48,11 +48,11 @@ function Footer() {
         <p>
           Copyright © {new Date().getFullYear()} - All right reserved by
           <a
-            href="https://muhammadranju.vercel.app"
+            href="https://Khushalmishra.vercel.app"
             target="_blank"
             className="link link-hover ml-2 underline"
           >
-            Muhammad Ranju
+            Khushal Mishra
           </a>
         </p>
       </aside>
