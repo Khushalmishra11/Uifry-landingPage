@@ -8,10 +8,10 @@ function Footer() {
           </span>
           <span className="font-medium text-base">
             <i className="fa-solid fa-envelope text-red-500"></i>{" "}
-            help@frybix.com
+            khushalmishra261203@gmail.com
           </span>
           <span className="font-medium text-base">
-            <i className="fa-solid fa-phone text-red-500"></i> +1 234 456 678 89
+            <i className="fa-solid fa-phone text-red-500"></i> +91 7976457673
           </span>
         </aside>
         <nav>
